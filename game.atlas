@@ -1,187 +1,208 @@
 
 game.png
-size: 2048, 512
+size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Bibliotheca Sanctum
   rotate: false
-  xy: 4, 228
+  xy: 4, 212
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Breeders
   rotate: false
-  xy: 1668, 220
+  xy: 1000, 632
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Divine Tulepsar
   rotate: false
-  xy: 212, 228
+  xy: 532, 740
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Domus Bellica
   rotate: false
-  xy: 212, 20
+  xy: 4, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Encampment
   rotate: false
-  xy: 420, 20
+  xy: 948, 740
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/God of Science
   rotate: false
-  xy: 628, 20
+  xy: 1364, 740
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Holodeck
   rotate: false
-  xy: 1776, 112
+  xy: 1540, 632
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Jinque
   rotate: false
-  xy: 836, 20
+  xy: 1780, 740
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Vault of Hidden Knowledge
   rotate: false
-  xy: 1460, 228
+  xy: 420, 60
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
+LeaderIcons/Imperator Valmir Arkalon
+  rotate: false
+  xy: 4, 684
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+LeaderIcons/King Orsoes II
+  rotate: false
+  xy: 4, 420
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+LeaderIcons/Queen Jhande Floresia
+  rotate: false
+  xy: 268, 684
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
 NationIcons/Arkanthéa
   rotate: false
-  xy: 1668, 328
+  xy: 892, 632
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Clun State of Kardesh
   rotate: false
-  xy: 4, 20
+  xy: 268, 476
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Fenyang Grandasty
   rotate: false
-  xy: 1884, 328
+  xy: 1432, 632
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Jhandrix Empire
   rotate: false
-  xy: 1884, 220
+  xy: 1648, 632
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Zamutra
   rotate: false
-  xy: 1668, 4
+  xy: 1864, 632
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Cogsanctum
   rotate: false
-  xy: 1776, 328
+  xy: 1108, 632
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Cult of Yan'ad
   rotate: false
-  xy: 1776, 220
+  xy: 1324, 632
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Confictus
   rotate: false
-  xy: 1668, 112
+  xy: 1216, 632
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Elitonares
   rotate: false
-  xy: 420, 228
+  xy: 740, 740
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/F.M.S. Qianlong
   rotate: false
-  xy: 628, 228
+  xy: 1156, 740
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Goliath's Shot
   rotate: false
-  xy: 836, 228
+  xy: 1572, 740
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Kardeshian Cavalry
   rotate: false
-  xy: 1044, 228
+  xy: 212, 212
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Phasers
   rotate: false
-  xy: 1884, 112
+  xy: 1756, 632
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Precision Musket
   rotate: false
-  xy: 1044, 20
+  xy: 212, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Qiuang Mao
   rotate: false
-  xy: 1252, 228
+  xy: 476, 476
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Thamusera
   rotate: false
-  xy: 1252, 20
+  xy: 420, 268
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Zuleptares
   rotate: false
-  xy: 1460, 20
+  xy: 684, 532
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
