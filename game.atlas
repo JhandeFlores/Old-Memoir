@@ -1,26 +1,75 @@
 
 game.png
-size: 1024, 256
+size: 2048, 512
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+BuildingIcons/Bibliotheca Sanctum
+  rotate: false
+  xy: 4, 212
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
 BuildingIcons/Breeders
   rotate: false
-  xy: 320, 104
+  xy: 836, 204
   size: 100, 100
   orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Divine Tulepsar
+  rotate: false
+  xy: 212, 212
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Domus Bellica
+  rotate: false
+  xy: 212, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Encampment
+  rotate: false
+  xy: 420, 212
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/God of Science
+  rotate: false
+  xy: 420, 4
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Holodeck
   rotate: false
-  xy: 536, 104
+  xy: 836, 96
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Jinque
+  rotate: false
+  xy: 628, 212
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Vault of Hidden Knowledge
+  rotate: false
+  xy: 628, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
 NationIcons/Arkanthéa
   rotate: false
-  xy: 212, 104
+  xy: 836, 312
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -34,28 +83,28 @@ NationIcons/Clun State of Kardesh
   index: -1
 NationIcons/Fenyang Grandasty
   rotate: false
-  xy: 428, 104
+  xy: 944, 312
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Jhandrix Empire
   rotate: false
-  xy: 644, 104
+  xy: 944, 204
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Zamutra
   rotate: false
-  xy: 860, 104
+  xy: 944, 96
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Phasers
   rotate: false
-  xy: 752, 104
+  xy: 1052, 312
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
