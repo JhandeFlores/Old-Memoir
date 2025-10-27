@@ -6,168 +6,182 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Bibliotheca Sanctum
   rotate: false
-  xy: 4, 212
+  xy: 4, 228
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Breeders
   rotate: false
-  xy: 1668, 204
+  xy: 1668, 220
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Divine Tulepsar
   rotate: false
-  xy: 212, 212
+  xy: 212, 228
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Domus Bellica
   rotate: false
-  xy: 212, 4
+  xy: 212, 20
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Encampment
   rotate: false
-  xy: 420, 4
+  xy: 420, 20
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/God of Science
   rotate: false
-  xy: 628, 4
+  xy: 628, 20
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Holodeck
   rotate: false
-  xy: 1776, 204
+  xy: 1776, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Jinque
   rotate: false
-  xy: 836, 4
+  xy: 836, 20
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Vault of Hidden Knowledge
   rotate: false
-  xy: 1460, 212
+  xy: 1460, 228
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Arkanthéa
   rotate: false
-  xy: 1668, 312
+  xy: 1668, 328
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Clun State of Kardesh
   rotate: false
-  xy: 4, 4
+  xy: 4, 20
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Fenyang Grandasty
   rotate: false
-  xy: 1668, 96
+  xy: 1884, 328
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Jhandrix Empire
   rotate: false
-  xy: 1884, 312
+  xy: 1884, 220
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Zamutra
   rotate: false
-  xy: 1884, 204
+  xy: 1668, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Cogsanctum
+  rotate: false
+  xy: 1776, 328
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Cult of Yan'ad
+  rotate: false
+  xy: 1776, 220
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Confictus
   rotate: false
-  xy: 1776, 312
+  xy: 1668, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Elitonares
   rotate: false
-  xy: 420, 212
+  xy: 420, 228
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/F.M.S. Qianlong
   rotate: false
-  xy: 628, 212
+  xy: 628, 228
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Goliath's Shot
   rotate: false
-  xy: 836, 212
+  xy: 836, 228
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Kardeshian Cavalry
   rotate: false
-  xy: 1044, 212
+  xy: 1044, 228
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Phasers
   rotate: false
-  xy: 1776, 96
+  xy: 1884, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Precision Musket
   rotate: false
-  xy: 1044, 4
+  xy: 1044, 20
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Qiuang Mao
   rotate: false
-  xy: 1252, 212
+  xy: 1252, 228
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Thamusera
   rotate: false
-  xy: 1252, 4
+  xy: 1252, 20
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Zuleptares
   rotate: false
-  xy: 1460, 4
+  xy: 1460, 20
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
